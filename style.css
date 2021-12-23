@@ -1,0 +1,29 @@
+h1{
+    color:mediumslateblue
+}
+*{
+    border:solid
+}
+.header{
+background-color: tomato;
+display: flex;
+justify-content: space-between;
+}
+.Trex{
+display:flex;
+flex-wrap:wrap;
+justify-content: space-evenly;
+}
+.juego_2{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    }
+
+    .Footer{
+        display:flex;
+        justify-content: flex-end;
+        }
+    p.h2{
+    text-align:center;
+    }
